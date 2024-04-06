@@ -1,6 +1,6 @@
 # gis-h3-income
 
-[Demo](https://hiromu.github.io/gis-h3-income/)
+[Demo](https://gis-h3-income.hiromu.phd/)
   
 [政府統計の総合窓口](https://www.e-stat.go.jp/)で配布されている国勢調査のGISデータと住宅・土地統計調査を用いて、[H3](https://uber.github.io/h3/)グリッドごとに年収階級別世帯数を推定し、Google Maps上に表示するためのシステムです。
 
